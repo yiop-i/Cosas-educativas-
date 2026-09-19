@@ -1,4 +1,4 @@
-from text2num import text2num
+from text_to_num import text2num
 
 texto = "tres mil doscientos cuarenta y cinco"
 
